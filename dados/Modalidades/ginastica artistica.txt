@@ -1,0 +1,27 @@
+|...............::Ginastica Artistica::...............|
+|Argentina:                                           |
+|Martina Dominici                                     |
+|Federico Molinari                                    |
+|Ayelen Tarabini                                      |
+|...............:::::::::::::::::::::::...............|
+|Brasil:                                              |
+|Chico Barreto                                        |
+|Caio Souza                                           |
+|Diogo Soares                                         |
+|...............:::::::::::::::::::::::...............|
+|Espanha:                                             |
+|Jesus Carballo                                       |
+|Manuel Carballo                                      |
+|Gervasio Deferr                                      |
+|...............:::::::::::::::::::::::...............|
+|Franca:                                              |
+|Samir Ait Said                                       |
+|Emilie Le Pennec                                     |
+|Marine Brevet                                        |
+|...............:::::::::::::::::::::::...............|
+|Japao:                                               |
+|Takahashi Ono                                        |
+|Sawao Kato                                           |
+|Yukio Kato                                           |
+|...............:::::::::::::::::::::::...............|
+pressione enter para continuar....

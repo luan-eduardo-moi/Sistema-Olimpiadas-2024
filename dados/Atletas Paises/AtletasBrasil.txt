@@ -1,0 +1,21 @@
+|...............::Atletas Brasileiros::...............|
+|Aldemir Gomes Junior                                 |
+|Gabriel Constantino                                  |
+|Eduardo de Deus                                      |  
+|Abner Teixeira                                       |
+|Hebert Conceicao                                     |
+|Wanderson Oliveira                                   | 
+|Chico Barreto                                        |
+|Caio Souza                                           |
+|Diogo Soares                                         |
+|Kelvin Hoefler                                       |
+|Leticia Bufoni                                       |   
+|Rayssa Leal                                          |
+|Italo Ferreira                                       |
+|Gabriel Medina                                       |
+|Silvana Lima                                         |
+|Joao Menezes                                         |
+|Thiago Monteiro                                      |
+|Marcelo Demoliner                                    |
+|...............:::::::::::::::::::::::...............|
+pressione enter para continuar....

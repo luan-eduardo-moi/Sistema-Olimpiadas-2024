@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638268816 source:c:\users\junio\onedrive - unip\pim\codigo\olimpiadas 2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<C:\Users\junio\OneDrive - UNIP\PIM\Codigo\Olimpiadas 2024\menus.c>
+	<C:\Users\junio\Onedrive - UNIP\PIM\Codigo\Olimpiadas 2024\limparTela.c>
+	<C:\Users\junio\OneDrive - UNIP\PIM\Codigo\Olimpiadas 2024\leitor.c>
+

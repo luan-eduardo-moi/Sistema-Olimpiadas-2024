@@ -1,0 +1,27 @@
+|...............::::Tenis::::...............|
+|Argentina:                                 |
+|Gabriela Sabatini                          |
+|Diego Schwartzman                          |
+|Franco Squillari                           |
+|...............:::::::::::::...............|
+|Brasil:                                    |
+|Joao Menezes                               |
+|Thiago Monteiro                            |
+|Marcelo Demoliner                          |
+|...............:::::::::::::...............|
+|Espanha:                                   |
+|Juan Aguilera                              |
+|Julian Alonso                              |
+|Manuel Alonso                              |
+|...............:::::::::::::...............|
+|Franca:                                    |
+|Pierre Albarran                            |
+|Thierry Ascione                            |
+|Axel Michon                                |
+|...............:::::::::::::...............|
+|Japao:                                     |
+|Naomi Osaka                                |
+|Akira Santillan                            |
+|Ahuko Aoyama                               |
+|...............:::::::::::::...............|
+pressione enter para continuar....

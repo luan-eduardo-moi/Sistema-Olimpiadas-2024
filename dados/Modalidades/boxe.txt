@@ -1,0 +1,27 @@
+|...............::::Boxe::::................|        
+|Argentina:                                 |
+|Pascual Perez                              |
+|Horacio Accavallo                          |
+|Nicolino Locche                            |
+|...............:::::::::::::...............|
+|Brasil:                                    |
+|Abner Teixeira                             |
+|Hebert Conceicao                           |
+|Wanderson Oliveira                         |
+|...............:::::::::::::...............|
+|Espanha:                                   |
+|Ed Carlos Soares Macedo                    |
+|Baltasar Berenguer Hervas                  |
+|Pedro Carrasco                             |
+|...............:::::::::::::...............|
+|Franca:                                    |
+|Georges Carpentier                         |
+|Eugene Criqui                              |
+|Marcel Cerdan                              |
+|...............:::::::::::::...............|
+|Japao:                                     |
+|Megumi Fujii                               |
+|Takanori Gomi                              |
+|Shinya Aoki                                |
+|...............:::::::::::::...............|
+pressione enter para continuar....

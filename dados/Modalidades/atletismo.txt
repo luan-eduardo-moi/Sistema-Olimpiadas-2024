@@ -1,0 +1,27 @@
+|...............::Atletismo::...............|
+|Argentina:                                 |
+|Juan Carlos zabala                         |
+|Delfo Cabrera                              |
+|Noemi Simonetto                            |
+|...............:::::::::::::...............|
+|Brasil:                                    |
+|Aldemir Gomes Junior                       |
+|Gabriel Constantino                        |
+|Eduardo de Deus                            |
+|...............:::::::::::::...............|
+|Espanha:                                   |
+|Orlando Ortega                             |
+|Maria Vicente                              |
+|Jesus Angel Garcia Bragado                 |
+|...............:::::::::::::...............|
+|Franca:                                    |
+|Renaud Lavillenie                          |
+|Christophe Lemaitre                        |
+|Mehdi Baala                                |
+|...............:::::::::::::...............|
+|Japao:                                     |
+|Naoko Takahashi                            |
+|Mikio Oda                                  |
+|Katsuhico Nakaya                           |
+|...............:::::::::::::...............|
+pressione enter para continuar....
